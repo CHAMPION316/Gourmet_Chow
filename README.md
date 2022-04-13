@@ -99,3 +99,19 @@ At this point in time I only have the index.html page running but will implement
 
 ----
 
+## 3 Technologies used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - provides the content and structure for the website.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - styling for my website.
+- [Balsamiq](https://balsamiq.com/) - used to create the project's wireframes.
+- [Gitpod](https://gitpod.io/) - used to develop the website in the beginning. 
+- [Visual Studio Code](https://code.visualstudio.com/download) - used to develop the website outside of Gitpod.
+- [GitHub](https://github.com/) - used to host the project.
+- [Google Fonts](https://fonts.google.com/) - used to provide my fonts (font-family: 'Mallanna', 'Rajdhani')
+- [Font Awesome](https://fontawesome.com/) - used font awesome to add an emoji to the 'sign-up form' in the footer.
+- [Pexel](https://www.pexels.com/) - used to get the hero image of the beach in the header.
+- [Coolors](https://coolors.co/) - used to create the color palette for my whole website.
+- [Am I Responsive?](http://ami.responsivedesign.is/) - used to present the site on different devices.
+- [HTML Validator](https://validator.w3.org/) - used to find errors that don't belong in my HTML code.
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) - used to find errors that don't belong in my CSS code.
+- [OneNote](https://www.onenote.com/download) - Used for rough draft ideas and note taking.
