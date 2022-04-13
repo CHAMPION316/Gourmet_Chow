@@ -82,9 +82,9 @@ At this point in time I only have the index.html page running but will implement
 
 [**The Header**](static/img/phone-main-page.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
 
-[**Section**](wireframes/phone-main-page.png) : Contains a colored background with an image of a dish that the restaurant serves with a brief description about the restaurant. 
+[**Section**](static/img/phone-main-page.png) : Contains a colored background with an image of a dish that the restaurant serves with a brief description about the restaurant. 
 
-[**The Footer**](wireframes/phone-main-page.png) : includes:
+[**The Footer**](static/img/phone-main-page.png) : includes:
 
 - **Address details**: includes a contact email to contact the owner.
 - **Phone Number**: newsletter so clients can stay up to date with new material and more.
@@ -98,3 +98,4 @@ At this point in time I only have the index.html page running but will implement
 - Have a notification window pop up when clicking on the phone number on the footer that allows one to make the call directly without having to type the numbers manually.
 
 ----
+
