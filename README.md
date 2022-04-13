@@ -70,3 +70,12 @@ I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
 All of my pages consist of the same navigation menu bar or hamburger icon for mobile devices. This format allows the user to understand where everything is located at all times for simplicity. The main page has a footer at the bottom with the address, phone number, and social media links. (I am currently working on whether the footer will be implemented on all pages except the menu page.) My color palette was created using [https://coolors.co/](https://coolors.co/). I decided to use 3 colors listed below in RGB format. 
 
 The color palette was done using [coolors](https://coolors.co/) as seen by the image here [collage](static/img/chow-color-palette.png)
+
+
+At this point in time I only have the index.html page running but will implement the rest as I just worked on the wireframes for the rest of the site. 
+
+[**The Navbar**](static/img/phone-navbar.png) includes links to **Home Page** - **Menu Page** - **Reservation Page** - **About Page** 
+- [**Home Page**](static/img/phone-main-page.png) allows the user to navigate to the main page.
+- [**Menu Page**](static/img/phone-menu-maincourse.png) allows the user to view the food menu.
+- [**Reservation Page**](static/img/phone-reservation-page.png) allows the user to place a reservation with a date and time.
+- [**About Page**](static/img/phone-about-page.png) allows the user to learn more about the restaurant and it's history.
