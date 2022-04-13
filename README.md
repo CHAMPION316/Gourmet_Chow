@@ -60,3 +60,13 @@ I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
 |**|**|[Menu Page Main Course](static/img/phone-menu-maincourse.png)|
 |**|**|[Menu Page Slides](static/img/phone-menu-slides.png)|
 |[About Page]|[About Page](static/img/tablet-about.png)|[About Page](static/img/phone-about-page.png)|
+
+----
+
+##  2 Features 
+
+### 2.1 Existing Features
+
+All of my pages consist of the same navigation menu bar or hamburger icon for mobile devices. This format allows the user to understand where everything is located at all times for simplicity. The main page has a footer at the bottom with the address, phone number, and social media links. (I am currently working on whether the footer will be implemented on all pages except the menu page.) My color palette was created using [https://coolors.co/](https://coolors.co/). I decided to use 3 colors listed below in RGB format. 
+
+The color palette was done using [coolors](https://coolors.co/) as seen by the image here [collage](static/img/chow-color-palette.png)
