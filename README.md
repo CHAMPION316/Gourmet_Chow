@@ -30,3 +30,17 @@ Here is the color palette I have come up with:
 
 The logo was designed by me using photoshop but first created rough draft ideas in OneNote. Here are images showcasing that. 
 - [Sketch logo ideas](static/img/chow-roughdraft-logos.jpg)
+
+### 1.3 User Stories 
+
+- As a user, I expect to navigate the website with ease of use.
+- As a user, I expect to find the food menu as fast as possible.
+- As a user, I expect to find the restaurants phone number as fast as possible. 
+- As a user, I expect to find the restaurants address as fast as possible.
+- As a user, I expect to book a table with a number of guests. 
+- As a user, I expect to cancel my booking if plans change before hand. 
+- As a user, I expect to be able to download the menu as a pdf if possible. 
+- As a user, I expect to combine multiple tables if we have more than the guest limit for bookings.
+- As a creator, I expect the user to find what they need on the main page.
+- As a creator, I expect the user to find the address of the restaurant within the first 45 seconds.
+- As a creator, I expect the user to enjoy a simplistic menu that isn't all over the place. 
