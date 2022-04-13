@@ -89,3 +89,12 @@ At this point in time I only have the index.html page running but will implement
 - **Address details**: includes a contact email to contact the owner.
 - **Phone Number**: newsletter so clients can stay up to date with new material and more.
 - **Social Media Links**: Links to the restaurants social media pages. 
+
+### 2.2. Features left to implement in the future
+
+- Create the backend for the website that allows functionality between colliding dates and times.
+- Create a downloadable pdf version of the food menu by adding a clikable link to the page.
+- Add a google maps image of the address when on the **Reservation Page** page or have google maps open when clicking on the address on the footer.
+- Have a notification window pop up when clicking on the phone number on the footer that allows one to make the call directly without having to type the numbers manually.
+
+----
