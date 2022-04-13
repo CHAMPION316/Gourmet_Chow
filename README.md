@@ -44,3 +44,19 @@ The logo was designed by me using photoshop but first created rough draft ideas 
 - As a creator, I expect the user to find what they need on the main page.
 - As a creator, I expect the user to find the address of the restaurant within the first 45 seconds.
 - As a creator, I expect the user to enjoy a simplistic menu that isn't all over the place. 
+
+### 1.4 Wireframes
+
+I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
+
+|    Desktop   |    Tablet    |    Mobile    |
+|    :----:    |     :----:   |    :----:    |
+|[Home Page]|[Home Page](static/img/tablet-main-page.png)|[Home Page](wireframes/phone-main-page.png)|
+|[Navbar]|[Navbar](wireframes/tablet-navbar.png)|[Navbar](wireframes/phone-navbar.png)|
+|[Reservation Page]|[Reservation Page](wireframes/tablet-reservation-page.png)|[Reservation Page](wireframes/phone-reservation-page.png)|
+|[Reservation Guests]|[Reservation Guests](wireframes/tablet-reservation-guests.png)|[Reservation Guests](wireframes/phone-reservation-guests.png)|
+|[Reservation Date]|[Reservation Date](wireframes/tablet-reservation-date.png)|[Reservation Date](wireframes/phone-reservation-date.png)|
+|[Menu Page]|[Menu Page](wireframes/tablet-menu.png)|[Menu Page Starters](wireframes/phone-menu-starters.png)|
+|**|**|[Menu Page Main Course](wireframes/phone-menu-maincourse.png)|
+|**|**|[Menu Page Slides](wireframes/phone-menu-slides.png)|
+|[About Page]|[About Page](wireframes/tablet-about.png)|[About Page](wireframes/phone-about-page.png)|
