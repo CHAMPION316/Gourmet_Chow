@@ -122,3 +122,11 @@ At this point in time I only have the index.html page running but will implement
 - As it stands now this is the testing results for the **index.html** page and the **style.css** stylesheet
 
 ----
+
+## 5. Improvements
+
+- Allow the logo image on the main page to shrink and increase in size when the window is altered instead of having a set size for devices.
+- Play a sound when you have submitted your reservation on the website.
+- Get an email after submitting the reservation that reminds you of the date and time of your reservation.
+
+---
