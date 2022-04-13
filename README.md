@@ -80,4 +80,4 @@ At this point in time I only have the index.html page running but will implement
 - [**Reservation Page**](static/img/phone-reservation-page.png) allows the user to place a reservation with a date and time.
 - [**About Page**](static/img/phone-about-page.png) allows the user to learn more about the restaurant and it's history.
 
-[**The Header**](wireframes/phone-main-page.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
+[**The Header**](static/img/phone-main-page.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
