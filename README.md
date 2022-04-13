@@ -220,3 +220,5 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 - `git push -u heroku master`
 
 <!-- Find deployment for Heroku -->
+
+## 7 Credits
