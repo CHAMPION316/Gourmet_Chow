@@ -61,3 +61,8 @@ html, body {
     font-style: italic;
 }
 
+/*--------------------------------------------Section*/
+
+section {
+    background-color: #212529;
+}
