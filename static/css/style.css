@@ -31,3 +31,14 @@ html, body {
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
     color: #fff;
 }
+
+/*--------------------------------------------Header*/
+
+#main-header {
+    background: url(../images/pexels-chan-walrus-941861.jpg) no-repeat center center fixed;
+    display: table;
+    height: 90%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
