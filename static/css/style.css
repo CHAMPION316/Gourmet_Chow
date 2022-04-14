@@ -5,3 +5,11 @@
     padding:0;
     border:0;
 } */
+
+/*--------------------------------------------Global properties*/
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+}
