@@ -89,3 +89,11 @@ section {
     color: #d36cbd;
     line-height: 2;
 }
+
+/*--------------------------------------------Footer*/
+
+footer {
+    width: 100%;
+    background-color: #d36cbd;
+    padding: 5% 5% 5% 5%;
+}
