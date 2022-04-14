@@ -108,3 +108,11 @@ footer {
     color: #fff;
     text-decoration: none;
 }
+
+/*--------------------------------------------Media Queries*/
+
+@media (max-width: 768px) {
+    .landing-text img {
+        height: 130px;
+        width: 140px;
+    }
